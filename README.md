@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack developer from Pakistan.</h3>
 
 
-<p align="left"> <img align="right" alt="coding" width="350" src="https://cdn.pixabay.com/animation/2023/05/20/21/52/21-52-42-295_512.gif" alt="hibadawood" /> </p>
+<p align="left"> <img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/animation/2023/05/20/21/52/21-52-42-295_512.gif" alt="hibadawood" /> </p>
 - 🔭 I’m currently working on [100-days-of-coding](https://github.com/HibaDawood)
 
 - 🌱 I’m currently learning **cloud Applied generative AI**
