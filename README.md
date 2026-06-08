@@ -1,4 +1,5 @@
 # ⏲️ CLI Countdown Timer
+[![npm version](https://img.shields.io/npm/v/countdown-timer-hb4.svg?style=flat-square)](https://www.npmjs.com/package/countdown-timer-hb4)
 
 A lightweight Node.js command-line interface (CLI) countdown timer built with TypeScript. It allows users to set a specific duration in seconds and displays a real-time, formatted countdown.
 
@@ -20,14 +21,9 @@ A lightweight Node.js command-line interface (CLI) countdown timer built with Ty
 
 ---
 
-## 🚀 How to Run & Use
+### 🚀 How to Run & Use
 
-1. Clone or download this repository.
-2. Open your terminal in the project folder and install the packages:
-   ```bash
-   npm install
-
-3. Run the timer using the following command:
+Run this application directly in your terminal using `npx` (No installation required):
 
 ```bash
-npx tsc && node index.js
+npx countdown-timer-hb4
